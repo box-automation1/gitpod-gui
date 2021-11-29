@@ -1,4 +1,4 @@
 image: gitpod/workspace-full
 
 tasks:
- - command: curl -s https://gist.githubusercontent.com/box-automation1/6b2b6f1081e2a9ed1d6c9e6eb00ce2d3/raw/setup-gitpod-gui-xfce.sh | sudo bash -s
+ - command: curl -s https://gist.githubusercontent.com/box-automation1/bd68c54738d3b144060fc44875b0dd3c/raw/setup-gitpod-gui-gnome-classic.sh | sudo bash -s
